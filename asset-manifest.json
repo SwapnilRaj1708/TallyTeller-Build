@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tally-Teller-V1.0/static/css/main.8b041204.css",
+    "main.js": "/Tally-Teller-V1.0/static/js/main.39f7e581.js",
+    "index.html": "/Tally-Teller-V1.0/index.html",
+    "main.8b041204.css.map": "/Tally-Teller-V1.0/static/css/main.8b041204.css.map",
+    "main.39f7e581.js.map": "/Tally-Teller-V1.0/static/js/main.39f7e581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b041204.css",
+    "static/js/main.39f7e581.js"
+  ]
+}
